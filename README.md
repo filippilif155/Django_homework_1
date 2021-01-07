@@ -1,1 +1,1 @@
-Django Developers Lab course homeworks (weakly)
+Django Developers Lab course homeworks (weekly)
