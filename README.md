@@ -1,1 +1,1 @@
-# Django_homework_1
+Django Developers Lab course homeworks (weakly)
